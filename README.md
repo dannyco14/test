@@ -35,13 +35,13 @@ _note2_
       },.  
 
 _note3_  
-! The virtual network service endpoints for Azure Key Vault and Storage accounts allow usu to restrict access to a specified virtual network.  
+! The virtual network service endpoints for Azure Key Vault and Storage accounts allow us to restrict access to a specified virtual network.  
 The endpoints also allow us to restrict access to a list of IPv4 (internet protocol version 4) address ranges.  
 Any user connecting to your key vault from outside those sources is denied access.  
 This feature can be easily added if needed.  
 
 _note4_  
-! i decided to use a "classic" storage account becuase there are all kind of limitation in using the blob storage  
+! i decided to use a "classic" storage account because there are all kind of limitation in using the blob storage  
 (There are currently still no official SDKs for Data lake storage Gen2, 
 https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-known-issues)  
 
@@ -87,4 +87,4 @@ h. restart the "resource group / Azure App Service"
 
 This project demonstrates how we can upload files from browser to an Azure Storage Account
 
-Explore the [SimpleUpload ASP .NET Core web app](https://simpleuploaddaniel.azurewebsites.net/) that can access both the datalake storage and the key vault secret.
+Explore the [SimpleUpload ASP .NET Core web app](https://simpleuploaddaniel.azurewebsites.net/) that can access both the storage and the key vault secret.
