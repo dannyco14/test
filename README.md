@@ -1,4 +1,4 @@
-# assessment1
+# Assessment1
 
 This project demonstrates how we can upload files from browser to an Azure Storage Account
 
