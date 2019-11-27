@@ -5,7 +5,7 @@ This project demonstrates how we can upload files from browser to an Azure Stora
 ## Limitations and Considerations
 1. Most file formats are supported.
 
-### Deploy Required Resources
+### I Deploy Required Resources
 
 1. Click the below button to upload the provided ARM template to the Azure portal, which is written to automatically deploy and configure the following resources:  </br>
 	1.1 An Azure Datalake Gen 2 storage account  
@@ -53,7 +53,7 @@ Only use alphanumeric lowercase characters for the Resource Prefix field.
     ![Deployment in progress](images/deploymentInProgress.JPG)
 
 
-### Initialize the code
+### II Initialize the code
 after you will see:  
     ![Deployment completed](images/deploymentCompleted.JPG)
 
@@ -71,7 +71,7 @@ _note5_
 Hope to have the opportunity to demo it to you.   
 
 f. deploy the solution "https://github.com/dannyco14/test/tree/master/SimpleUpload" using  the visual studio 2019  
-
+  
     ![Publish Profile](images/publishProfile.JPG)  
 
 g. copy the value of "Object ID"  
@@ -84,7 +84,7 @@ and then save it
 h. restart the "resource group / Azure App Service"
 
 
-### Results
+### III Results
 
 This project demonstrates how we can upload files from browser to an Azure Storage Account
 
