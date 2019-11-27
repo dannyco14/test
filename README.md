@@ -70,8 +70,7 @@ _note5_
 ! we can create this Application setting using the ARM template (like i did for the azure vault secret).  
 Hope to have the opportunity to demo it to you.   
 
-f. deploy the solution "https://github.com/dannyco14/test/tree/master/SimpleUpload" using  the visual studio 2019  
-  
+f. deploy the solution "https://github.com/dannyco14/test/tree/master/SimpleUpload" using  the visual studio 2019      
     ![Publish Profile](images/publishProfile.JPG)  
 
 g. copy the value of "Object ID"  
