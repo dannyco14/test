@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "publicIPAddresses_ip1_name": {
+            "value": null
+        },
+        "loadBalancers_assessmentlb_name": {
+            "value": null
+        },
+        "vaults_assessmentkeyvault1_name": {
+            "value": null
+        },
+        "virtualNetworks_assessmentpn_name": {
+            "value": null
+        },
+        "sites_SimpleUpload20191125111810_name": {
+            "value": null
+        },
+        "storageAccounts_assessmentdatalakegen2_name": {
+            "value": null
+        },
+        "serverfarms_SimpleUpload20191125111810Plan_name": {
+            "value": null
+        }
+    }
+}
